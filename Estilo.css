@@ -1,0 +1,76 @@
+/*http://wiki.xfce.org/howto/gtk_theme*/
+/*https://developer.gnome.org/gtk3/3.0/GtkCssProvider.html*/
+/*background: url{../images/imagen.png} no-repeat;*/
+
+WindowJAMediaEditor, JAMediaEditorBasePanel, JAMediaEditorInfoNotebook,
+JAMediaEditorToolbarBusquedas, JAMediaEditorToolbarProyecto,
+JAMediaEditorToolbarArchivo, JAMediaEditorWorkPanel, ToolbarTerminal,
+JAMediaEditorNotebook_SourceView, JAMediaTerminal, NoteBookTerminal,
+Terminal, DialogoFormato, JAMediaEditorDialogoProyecto, PygiHackMenu,
+JAMediaEditorDialogoSetup, JAMediaPyGiHack, PygiHackToolbar, PygiHackBasePanel,
+PygiHackBaseNotebook, PygiHackIntrospectionPanel, PygiHackInfoNotebook,
+JAMediaTerminal2, NoteBookTerminal2, Terminal2, ToolbarTerminal2,
+DialogoFormato2, JAMediaGstreamerPyGiHack, JAMediaEditorNotebook_Setup,
+JAMediaEditorGnome_Notebook, JAMediaEditorSugar_Notebook,
+JAMediaEditorWidget_icon, JAMediaEditorCeibal_Notebook,
+JAMediaEditorPanelWidget_setup {
+    background-color: #f0e6aa;
+    color: #000000;
+}
+
+JAMediaEditorIntrospeccion, JAMediaEditorEstructura_Proyecto,
+JAMediaEditorDialogoBuscar, JAMediaEditorDialogoReemplazar,
+JAMediaEditorMy_FileChooser, Multiple_FileChooser, JAMediaEditorDialogoErrores,
+JAMediaEditorDialogoAlertaSinGuardar, JAMediaEditorDialogoSobreEscritura,
+JAMediaEditorDialogoEliminar, JAMediaEditorBusquedaGrep, JAMediaEditorCredits,
+GtkViewport, GtkFrame,
+JAMediaEditorDialogoInstall, JAMediaEditorDialogoInfoInstall {
+    background-color: #edf5ff;
+    color: #000000;
+}
+
+JAMediaEditorMenu, JAMediaEditorToolbarEstado, PygiHackToolbarTry {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+TreeViewFonts, TreeViewTamanio {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/*
+JAMediaEditorDialogoProyecto {
+    background-color: #edf5ff;
+    color: #000000;
+    background-image: -gtk-gradient(linear,
+        left top, left bottom,
+        from(shade(#edf5ff, 0.50)),
+        to(shade(#edf5ff, 1.00)));
+}
+
+GtkPaned {
+    background-color: #edf5ff;
+}
+
+JAMediaEditorMenu, JAMediaEditorToolbarEstado {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+JAMediaEditorToolbarArchivo, JAMediaEditorToolbarProyecto, PygiHackToolbar, PygiHackMenu {
+    background-color: #ffffff;
+    background-image: -gtk-gradient(linear,
+        left top, left bottom,
+        from(shade(#edf5ff, 0.50)),
+        to(shade(#edf5ff, 1.00)));
+}
+
+ToolbarTerminal, JAMediaEditorToolbarBusquedas {
+    background-color: #ffffff;
+    background-image: -gtk-gradient(linear,
+        left top, left bottom,
+        from(shade(#edf5ff, 1.00)),
+        to(shade(#edf5ff, 0.50)));
+}
+*/

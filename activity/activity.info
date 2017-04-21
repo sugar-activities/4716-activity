@@ -1,0 +1,9 @@
+[Activity]
+name = JAMediaEditor
+activity_version = 2
+bundle_id = org.laptop.JAMediaEditor
+icon = JAMediaEditor
+exec = sugar-activity JAMediaEditor.JAMediaEditor -s
+mime_types =application/x-ide;text/plain;text/x-chdr;text/x-csrc;text/x-c++hdr;text/x-c++src;text/x-java;text/x-dsrc;text/x-pascal;text/x-perl;text/x-python;application/x-php;application/x-httpd-php3;application/x-httpd-php4;application/x-httpd-php5;application/xml;text/html;text/css;text/x-sql;text/x-diff;
+license = GPL3
+summary =
